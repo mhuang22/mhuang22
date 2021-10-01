@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @mhuang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👩🏻‍💻 I'm a Data Enthusiast
+- 🎮 My favorite game is The Sims
+- 📖 I'm currently reading The Midnight Library
+- 👀 My quarantine hobbies are 🎹 🎼 🧗🏻‍♀️ 🪴 🧶
+- 🌱 I’m currently learning APIs
 - 📫 How to reach me ...
+
 
 <!---
 mhuang22/mhuang22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
