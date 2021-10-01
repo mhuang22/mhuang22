@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mhuang
-- 👩🏻‍💻 I'm a Data Enthusiast
-- 🎮 My favorite game is The Sims
-- 📖 I'm currently reading The Midnight Library
-- 👀 My quarantine hobbies are 🎹 🎼 🧗🏻‍♀️ 🪴 🧶
-- 🌱 I’m currently learning APIs
-- 📫 How to reach me ...
+- 👋  Hi, I’m @mhuang
+- 👩🏻‍💻  I'm a Data Enthusiast
+- 🎮  My favorite game is The Sims
+- 📖  I'm currently reading The Midnight Library
+- 👀  My quarantine hobbies are 🎹 🎼 🧗🏻‍♀️ 🪴 🧶
+- 🌱  I’m currently learning APIs
+- 📫  How to reach me ...
 
 
 <!---
