@@ -4,7 +4,7 @@
 - 📖  I'm currently reading The Midnight Library
 - 👀  My quarantine hobbies are 🎹 🎼 🧗🏻‍♀️ 🪴 🧶
 - 🌱  I’m currently learning APIs
-- 📫  How to reach me ... https://www.kaggle.com/mhuang22
+- 🗂  Kaggle https://www.kaggle.com/mhuang22
 
 
 <!---
